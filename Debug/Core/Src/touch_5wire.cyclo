@@ -1,0 +1,15 @@
+../Core/Src/touch_5wire.c:10:6:touch_5wire_init	2
+../Core/Src/touch_5wire.c:44:9:map	1
+../Core/Src/touch_5wire.c:48:10:average_filter	2
+../Core/Src/touch_5wire.c:59:6:Write_Pin	1
+../Core/Src/touch_5wire.c:63:16:Read_Pin	1
+../Core/Src/touch_5wire.c:67:6:config_touch_detect	1
+../Core/Src/touch_5wire.c:74:6:config_read_x	1
+../Core/Src/touch_5wire.c:81:6:config_read_y	1
+../Core/Src/touch_5wire.c:88:6:set_to_gpio	1
+../Core/Src/touch_5wire.c:100:6:set_to_adc	1
+../Core/Src/touch_5wire.c:128:9:touch_detect	2
+../Core/Src/touch_5wire.c:141:10:get_raw_value_x	1
+../Core/Src/touch_5wire.c:149:9:get_position_x	1
+../Core/Src/touch_5wire.c:155:10:get_raw_value_y	1
+../Core/Src/touch_5wire.c:163:9:get_position_y	1

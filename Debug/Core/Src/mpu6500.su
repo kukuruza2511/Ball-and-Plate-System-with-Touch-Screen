@@ -1,0 +1,7 @@
+../Core/Src/mpu6500.c:14:6:MPU6500_Init	40	static
+../Core/Src/mpu6500.c:32:6:MPU6500_Raw_Gyro	40	static
+../Core/Src/mpu6500.c:41:6:MPU6500_Raw_Accel	40	static
+../Core/Src/mpu6500.c:50:6:MPU6500_Calibrate	72	static
+../Core/Src/mpu6500.c:74:6:MPU6500_Read_Data	32	static
+../Core/Src/mpu6500.c:88:6:Angle_CompFilter	72	static
+../Core/Src/mpu6500.c:105:6:Read_Angel	24	static

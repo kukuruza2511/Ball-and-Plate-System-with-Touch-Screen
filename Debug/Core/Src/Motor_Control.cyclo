@@ -1,0 +1,5 @@
+../Core/Src/Motor_Control.c:10:6:Motor_Init	1
+../Core/Src/Motor_Control.c:21:6:Stop	1
+../Core/Src/Motor_Control.c:26:6:Turn_right	1
+../Core/Src/Motor_Control.c:31:6:Turn_left	1
+../Core/Src/Motor_Control.c:36:6:Control_Motor	5
